@@ -1,3 +1,8 @@
+### Create
+```bash
+source .venv/bin/activate
+```
+
 ### Activate
 ```bash
 source .venv/bin/activate
