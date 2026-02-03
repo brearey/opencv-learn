@@ -1,11 +1,11 @@
 ### Create
 ```bash
-source .venv/bin/activate
+python3 -m venv myvenv
 ```
 
 ### Activate
 ```bash
-source .venv/bin/activate
+source myvenv/bin/activate
 ```
 
 ### Deactivate
@@ -15,7 +15,7 @@ deactivate
 
 ### install opencv
 ```bash
-pip3 install opencv-python
+pip3 install opencv-python numpy matplotlib mediapipe
 ```
 
 ```python
